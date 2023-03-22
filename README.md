@@ -1,2 +1,2 @@
-# cbeta
-Beta distribution as conjugate prior to Binomial likelihood
+# interactive_voila
+Interactive options in voila select
